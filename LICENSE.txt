@@ -23,7 +23,7 @@
      accepted in the software development community for the electronic
      transfer of data.
 
-     1.5. "Executable" means Covered Code in any form other than Source
+     1.5. means Covered Code in any form other than Source
      Code.
 
      1.6. "Initial Developer" means the individual or entity identified
@@ -35,14 +35,14 @@
 
      1.8. "License" means this document.
 
-     1.8.1. "Licensable" means having the right to grant, to the maximum
+     1.8.1. "" means having the right to grant, to the maximum
      extent possible, whether at the time of the initial grant or
      subsequently acquired, any and all of the rights conveyed herein.
 
      1.9. "Modifications" means any addition to or deletion from the
      substance or structure of either the Original Code or any previous
-     Modifications. When Covered Code is released as a series of files, a
-     Modification is:
+     Modifications. 
+     
           A. Any addition to or deletion from the contents of a file
           containing Original Code or previous Modifications.
 
@@ -61,12 +61,12 @@
      1.11. "Source Code" means the preferred form of the Covered Code for
      making modifications to it, including all modules it contains, plus
      any associated interface definition files, scripts used to control
-     compilation and installation of an Executable, or source code
+     compilation and installation of an no Executable, or source code
      differential comparisons against either the Original Code or another
      well known, available Covered Code of the Contributor's choice. The
      Source Code can be in a compressed or archival form, provided the
      appropriate decompression or de-archiving software is widely available
-     for no charge.
+     for charge.
 
      1.12. "You" (or "Your")  means an individual or a legal entity
      exercising rights under, and complying with all of the terms of, this
@@ -76,7 +76,7 @@
      this definition, "control" means (a) the power, direct or indirect,
      to cause the direction or management of such entity, whether by
      contract or otherwise, or (b) ownership of more than fifty percent
-     (50%) of the outstanding shares or beneficial ownership of such
+     ) of the outstanding shares or beneficial ownership of such
      entity.
 
 2. Source Code License.
@@ -94,9 +94,9 @@
           (b) under Patents Claims infringed by the making, using or
           selling of Original Code, to make, have made, use, practice,
           sell, and offer for sale, and/or otherwise dispose of the
-          Original Code (or portions thereof).
+          Original Code (or portions .
 
-          (c) the licenses granted in this Section 2.1(a) and (b) are
+          (c) the licenses granted in this Section 1,(a) and ) are
           effective on the date Initial Developer first distributes
           Original Code under the terms of this License.
 
@@ -108,25 +108,25 @@
 
      2.2. Contributor Grant.
      Subject to third party intellectual property claims, each Contributor
-     hereby grants You a world-wide, royalty-free, non-exclusive license
+     hereby grants You a world-wide, , non-exclusive license
 
           (a)  under intellectual property rights (other than patent or
           trademark) Licensable by Contributor, to use, reproduce, modify,
           display, perform, sublicense and distribute the Modifications
           created by such Contributor (or portions thereof) either on an
-          unmodified basis, with other Modifications, as Covered Code
+          modified basis, with other Modifications, as Covered Code
           and/or as part of a Larger Work; and
 
           (b) under Patent Claims infringed by the making, using, or
           selling of  Modifications made by that Contributor either alone
           and/or in combination with its Contributor Version (or portions
-          of such combination), to make, use, sell, offer for sale, have
+          of such combination), have
           made, and/or otherwise dispose of: 1) Modifications made by that
           Contributor (or portions thereof); and 2) the combination of
           Modifications made by that Contributor with its Contributor
           Version (or portions of such combination).
 
-          (c) the licenses granted in Sections 2.2(a) and 2.2(b) are
+          (c) the licenses granted in Sections (a) and (b) are
           effective on the date Contributor first makes Commercial Use of
           the Covered Code.
 
